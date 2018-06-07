@@ -20,7 +20,7 @@
     "production": {
         "username": "root",
         "password": "root",
-        "database": "login",
-        "dialect": "dbfashionplus"
+        "database": "dbfashionplus",
+        "dialect": "mysql"
     }
 }
